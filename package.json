@@ -1,0 +1,19 @@
+{
+  "name": "chaiorcode",
+  "version": "1.0.0",
+  "description": "a backend in at chai or code projects",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "keywords": [
+    "javaScripts",
+    "backend"
+  ],
+  "author": "Mohammad Imran",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
